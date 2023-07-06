@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://github.com/S00013/S00013/blob/main/resources/banner.png" alt="Hello world">
+<img src="https://github.com/S00013/S00013/blob/main/resources/profilebanner.png" alt="Hello world">
 
 
 ## About me
