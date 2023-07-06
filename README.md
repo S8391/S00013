@@ -5,13 +5,15 @@
 
 ## About me
 
-I'm Seb. I enjoy programming and have open sourced a few projects. 
+I'm Seb. Welcome to my GitHub. I am passionate about programming, security, and cloud inferstructure. 
 
 ## Things I am passionate about
 
 - Programming
 - Security
 - Video Games
+- Networks
+- My 2 cats
 - etc
 
 
