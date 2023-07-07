@@ -5,7 +5,7 @@
 
 ## About me
 
-I'm Seb. Welcome to my GitHub. I am passionate about programming, security, and cloud infrastructure. 
+I'm Seb. Welcome to my GitHub.
 
 ## Things I am passionate about
 
