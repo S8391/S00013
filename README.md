@@ -5,7 +5,7 @@
 
 ## About me
 
-I'm Seb. Welcome to my GitHub.
+Welcome to my GitHub.
 
 ## Things I am passionate about
 
