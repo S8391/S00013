@@ -10,11 +10,11 @@ Welcome to my GitHub.
 ## Things I am passionate about
 
 - Programming
-- Security
+- Security / Ethical Bug Bounty Hacking
 - Video Games
 - Networks
-- My 2 cats
-- etc
+- Data Analysis
+
 
 
 <!--
